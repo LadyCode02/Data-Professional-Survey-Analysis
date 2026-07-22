@@ -6,7 +6,8 @@ Interactive Power BI dashboard analyzing survey data from data professionals to 
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+<img width="927" height="527" alt="image" src="https://github.com/user-attachments/assets/64e6fad3-d45d-4c48-b719-1ecd181da92f" />
+
 
 ## Business Questions
 
