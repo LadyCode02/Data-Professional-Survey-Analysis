@@ -33,9 +33,3 @@ Interactive Power BI dashboard analyzing survey data from data professionals to 
 - Country comparison
 - Programming language distribution
 - Work-life balance analysis
-
-## Download
-
-Download the Power BI dashboard:
-
-Data_Professional_Survey.pbix
